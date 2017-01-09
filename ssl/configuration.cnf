@@ -16,4 +16,4 @@ extendedKeyUsage = serverAuth
 subjectAltName = @subject_alternate_names
 
 [subject_alternate_names]
-DNS.1 = hello-world.cloudhub.io
+DNS.1 = hello-world-alexa.cloudhub.io
